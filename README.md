@@ -12,6 +12,20 @@
 5. External Educational Content Links
 6. Video Streaming via youtube iframes
 
+## ScreenShots :
+
+### Home Page
+![Download](./1.png)
+
+### Course Details Page
+![Download](./2.png)
+
+### Course Enrollment Page
+![Download](./3.png)
+
+### Course Content Page
+![Download](./4.png)
+
 ## Project setup
 ```
 npm install
